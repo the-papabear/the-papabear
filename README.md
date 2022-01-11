@@ -4,12 +4,18 @@
 
 ```javascript
 var gabriel = {
+
   occupation: 'Web Developer',
   location: 'Iasi, Romania',
   company: Thinslices,
   
-  code:['Javascript', 'Typescript', 'HTML', 'CSS'],
-  tools: ['React', 'Node', 'Styled-Components', 'Jest'],
+  code:
+    {
+      frontend: ['Javascript', 'React', 'Typescript', 'HTML', 'CSS'],
+      backend: ['Node.js', 'REST APIs', 'GraphQL', 'Apollo'],
+    },
+  
+  tools: ['Node', 'Styled-Components', 'Jest', 'Apollo Sandbox'],
   
   motivation: 'I love builduing awesome apps for people to enjoy.'
 }
