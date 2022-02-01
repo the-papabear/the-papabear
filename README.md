@@ -12,7 +12,7 @@ var gabriel = {
   code:
     {
       frontend: ['Javascript', 'React', 'Typescript', 'HTML', 'CSS'],
-      backend: ['Node.js', 'REST APIs', 'GraphQL', 'Apollo'],
+      backend: ['Node.js', 'REST APIs', 'GraphQL', 'Apollo', 'Cypher'],
     },
   
   tools: ['Node', 'Styled-Components', 'Jest', 'Apollo Sandbox'],
