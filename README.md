@@ -17,6 +17,6 @@ var gabriel = {
   
   tools: ['Node', 'Styled-Components', 'Jest', 'Apollo Sandbox'],
   
-  motivation: 'I love builduing awesome apps for people to enjoy.'
+  motivation: 'I love building awesome apps for people to enjoy.'
 }
 ```
