@@ -6,18 +6,17 @@ const gabriel: WebDeveloper = {
   location: 'Iasi, Romania',
   company: 'Thinslices',
   
-  tools:
-    {
-      testing:  ['Cypress', 'Jest', 'Apollo Sandbox'],
-      backend:  ['Node.js', 'REST APIs', 'GraphQL', 'Apollo', 'Cypher'],
-      frontend: ['Javascript', 'React', 'Typescript', 'HTML', 'CSS', 'Styled-Components', 'Next.js'],
-    },
-  
-  motivation: 'I once got a thrill from seeing "Hello World" appear on my screen
+  tools:  {
+            testing:  ['Cypress', 'Jest', 'Apollo Sandbox'],
+            backend:  ['Node.js', 'REST APIs', 'GraphQL', 'Apollo', 'Cypher'],
+            frontend: ['Javascript', 'React', 'Typescript', 'HTML', 'CSS', 'Styled-Components', 'Next.js'],
+          },
+          
+  motivation: `I once got a thrill from seeing "Hello World" appear on my screen
                and I continued chasing that feeling time and time again through 
                different projects and discoveries from this awesome domain.
                I always plan on learning and building cool things that ultimately
                make me feel warm and fuzzy inside each day while also delivering
-               value and - hopefully - that same warmth and fuzziness I feel.'
+               value and - hopefully - that same warmth and fuzziness I feel.`
 }
 ```
