@@ -1,22 +1,23 @@
-# Hello there, I'm Gabriel! 👋
-
-[![Linkedin: gabrielursu](https://img.shields.io/badge/-gabrielursu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-ursu/)](https://www.linkedin.com/in/gabriel-ursu/)
+# Hello there, I'm Gabriel! 👋 
+You can check out my previous work experiences over here: [![Linkedin: gabrielursu](https://img.shields.io/badge/-gabrielursu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-ursu/)](https://www.linkedin.com/in/gabriel-ursu/)
 
 ```javascript
-var gabriel = {
-
-  occupation: 'Web Developer',
+const gabriel: WebDeveloper = {
   location: 'Iasi, Romania',
-  company: Thinslices,
+  company: 'Thinslices',
   
-  code:
+  tools:
     {
-      frontend: ['Javascript', 'React', 'Typescript', 'HTML', 'CSS'],
-      backend: ['Node.js', 'REST APIs', 'GraphQL', 'Apollo', 'Cypher'],
+      testing:  ['Cypress', 'Jest', 'Apollo Sandbox'],
+      backend:  ['Node.js', 'REST APIs', 'GraphQL', 'Apollo', 'Cypher'],
+      frontend: ['Javascript', 'React', 'Typescript', 'HTML', 'CSS', 'Styled-Components', 'Next.js'],
     },
   
-  tools: ['Node', 'Styled-Components', 'Jest', 'Apollo Sandbox'],
-  
-  motivation: 'I love building awesome apps for people to enjoy.'
+  motivation: 'I once got a thrill from seeing "Hello World" appear on my screen
+               and I continued chasing that feeling time and time again through 
+               different projects and discoveries from this awesome domain.
+               I always plan on learning and building cool things that ultimately
+               make me feel warm and fuzzy inside each day while also delivering
+               value and - hopefully - that same warmth and fuzziness I feel.'
 }
 ```
