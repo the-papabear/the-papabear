@@ -9,7 +9,8 @@ const gabriel: WebDeveloper = {
   tools:  {
             testing:  ['Cypress', 'Jest', 'Apollo Sandbox'],
             backend:  ['Node.js', 'REST APIs', 'GraphQL/Apollo Server', 'Neo4j/Cypher', 'MongoDB'],
-            frontend: ['Javascript', 'React', 'Typescript', 'HTML', 'CSS', 'Styled-Components', 'Next.js', 'Apollo Client'],
+            frontend: ['Javascript', 'React', 'Typescript', 'HTML', 
+                       'CSS', 'Styled-Components', 'Next.js', 'Apollo Client'],
           },
           
   motivation: `I once got a thrill from seeing "Hello World" appear on my screen
