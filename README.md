@@ -8,7 +8,7 @@ const gabriel: WebDeveloper = {
   
   tools:  {
             testing:  ['Cypress', 'Jest', 'Apollo Sandbox'],
-            backend:  ['Node.js', 'REST APIs', 'GraphQL', 'Apollo', 'Cypher'],
+            backend:  ['Node.js', 'REST APIs', 'GraphQL', 'Apollo', 'Cypher', 'MongoDB'],
             frontend: ['Javascript', 'React', 'Typescript', 'HTML', 'CSS', 'Styled-Components', 'Next.js'],
           },
           
