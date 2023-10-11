@@ -1,5 +1,5 @@
-# Hello there, I'm Gabriel! 👋 
-You can check out my previous work experiences over here: [![Linkedin: gabrielursu](https://img.shields.io/badge/-gabrielursu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-ursu/)](https://www.linkedin.com/in/gabriel-ursu/)
+# Hello, I'm Gabriel! 👋 
+[![Linkedin: gabrielursu](https://img.shields.io/badge/-gabrielursu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-ursu/)](https://www.linkedin.com/in/gabriel-ursu/)
 
 ```javascript
 const gabriel: WebDeveloper = {
@@ -7,17 +7,17 @@ const gabriel: WebDeveloper = {
   company: 'Thinslices',
   
   tools:  {
-            testing:  ['Cypress', 'Jest', 'Apollo Sandbox'],
-            backend:  ['Node.js', 'REST APIs', 'GraphQL/Apollo Server', 'Neo4j/Cypher', 'MongoDB'],
-            frontend: ['Javascript', 'React', 'Typescript', 'HTML', 
-                       'CSS', 'Styled-Components', 'Next.js', 'Apollo Client'],
+            testing:  ['Cypress', 'Jest', 'Apollo Sandbox', 'React Testing Library'],
+            backend:  ['Node.js', 'REST APIs', 'GraphQL/Apollo Server', 'Neo4j/Cypher', 'MongoDB', 'PostgreSQL(SQL and knex.js query builder)'],
+            frontend: ['Javascript', 'React', 'Typescript', 'Next.js','HTML', 
+                       'CSS', 'Styled-Components', 'Apollo Client', TailwindCSS, RadixUI, shadcn/ui],
           },
           
-  motivation: `I once got a thrill from seeing "Hello World" appear on my screen
-               and I continued chasing that feeling time and time again through 
-               different projects and discoveries from this awesome domain.
-               I always plan on learning and building cool things that ultimately
-               make me feel warm and fuzzy inside each day while also delivering
-               value and - hopefully - that same warmth and fuzziness I feel.`
+  motivation: `I remember the excitement of "Hello World" popping up on my screen,
+               and that thrill has been my driving force ever since. I've jumped
+               headfirst into countless projects and discoveries in this amazing field.
+               My mission? Keep learning, keep building cool stuff,
+               and keep that warm, fuzzy feeling going every day.
+               If I can share some of that good vibe with others, all the better!`
 }
 ```
