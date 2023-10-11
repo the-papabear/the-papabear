@@ -7,10 +7,16 @@ const gabriel: WebDeveloper = {
   company: 'Thinslices',
   
   tools:  {
-            testing:  ['Cypress', 'Jest', 'Apollo Sandbox', 'React Testing Library'],
-            backend:  ['Node.js', 'REST APIs', 'GraphQL/Apollo Server', 'Neo4j/Cypher', 'MongoDB', 'PostgreSQL(SQL and knex.js query builder)'],
-            frontend: ['Javascript', 'React', 'Typescript', 'Next.js','HTML', 
-                       'CSS', 'Styled-Components', 'Apollo Client', 'TailwindCSS', 'RadixUI/, 'Shadcn/ui'],
+            testing:  ['TDD', 'Cypress', 'Jest', 'Apollo Sandbox', 'React Testing Library'],
+            backend:  [
+                       'Node.js', 'REST APIs', 'GraphQL/Apollo Server',
+                       'Neo4j/Cypher', 'MongoDB', 'PostgreSQL(SQL and knex.js query builder)'
+                      ],
+            frontend: [
+                       'Javascript', 'React', 'Typescript',
+                       'Next.js','HTML', 'CSS', 'Styled-Components',
+                       'Apollo Client', 'TailwindCSS', 'RadixUI', 'Shadcn/ui'
+                      ],
           },
           
   motivation: `I remember the excitement of "Hello World" popping up on my screen,
