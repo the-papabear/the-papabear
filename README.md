@@ -2,28 +2,23 @@
 [![Linkedin: gabrielursu](https://img.shields.io/badge/-gabrielursu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-ursu/)](https://www.linkedin.com/in/gabriel-ursu/)
 
 ```javascript
-const gabriel: WebDeveloper = {
+const gabriel = {
+  position: 'Web Developer',
   location: 'Iasi, Romania',
-  company: 'Thinslices',
+  company: 'Digitalya OPS',
   
   tools:  {
-            testing:  ['TDD', 'Cypress', 'Jest', 'Apollo Sandbox', 'React Testing Library'],
+            testing:  ['TDD', 'Cypress', 'Jest', 'React Testing Library'],
             backend:  [
-                       'Node.js', 'REST APIs', 'GraphQL/Apollo Server',
-                       'Neo4j/Cypher', 'MongoDB', 'PostgreSQL(SQL and knex.js query builder)'
+                       'Node.js', 'Next.js', 'REST APIs', 'GraphQL/Apollo Server',
+                       'Neo4j/Cypher', 'MongoDB', 'PostgreSQL'
                       ],
             frontend: [
                        'Javascript', 'React', 'Typescript',
-                       'Next.js','HTML', 'CSS', 'Styled-Components',
-                       'Apollo Client', 'TailwindCSS', 'RadixUI', 'Shadcn/ui'
+                       'HTML', 'CSS', 'TailwindCSS', 'RadixUI', 'Shadcn/ui'
                       ],
           },
           
-  motivation: `I remember the excitement of "Hello World" popping up on my screen,
-               and that thrill has been my driving force ever since. I've jumped
-               headfirst into countless projects and discoveries in this amazing field.
-               My mission? Keep learning, keep building cool stuff,
-               and keep that warm, fuzzy feeling going every day.
-               If I can share some of that good vibe with others, all the better!`
+  motivation: `Curiosity got the better of me and it never stopped. I can learn, earn, and have fun while being curious.`
 }
 ```
